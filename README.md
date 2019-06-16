@@ -1,2 +1,2 @@
 # SuperPile
-Pile trduite
+Pile traduite
